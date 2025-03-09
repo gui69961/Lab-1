@@ -1,0 +1,252 @@
+
+html, body {
+    width: 100%;
+    overflow-x: hidden; 
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.inicio {
+    color: green;
+    background: beige;
+    border-style: solid;
+    border-color: rgb(82, 82, 233);
+    outline-style: solid;
+    outline-color: cyan;
+    position: relative;
+    z-index: 4;
+    outline-width: 20px;
+    width: 100%;
+    height: 200px;
+    text-align: center; 
+}
+
+
+.texto {
+    display: flex;                    
+    justify-content: center;        
+    align-items: center;              
+    color: purple;
+    position: relative;               
+    z-index: 4;
+    padding: 20px;                    
+    text-align: center;              
+    height: auto;                    
+    width: 100%;                      
+    box-sizing: border-box;        
+    margin: 0 auto;  
+    top: 92%;
+  }             
+
+
+.texto p {
+    margin: 0 20px;    
+            
+}
+
+
+.texto a {
+    text-decoration: none;           
+    color: purple;         }          
+
+
+
+
+body {
+    background-color: rgb(173, 171, 171);
+}
+
+
+.c {
+    position: absolute;               
+    top: 25%;                         
+    left: 5%;                         
+    z-index: 8;  
+        
+}
+
+
+.j {
+    position: absolute;                 
+    top: 7%;                          
+    left: 90%;                        
+    z-index: 8;                        
+}
+
+.inicio h1 {
+    position: absolute;  
+    top: 34%;  
+    left: 47%; 
+    color: green;
+    z-index: 5;  }
+
+    .texto1{
+        display: flex;
+       justify-content: center;
+        align-items: center;
+        top: 20%; 
+         font-family: Arial, sans-serif;
+        font-size: 20px;
+        color: purple;
+    }
+
+    .subtitulo1{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        
+    }
+
+    .texto2{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: Arial, sans-serif;
+        font-size: 20px;
+        color: purple;
+    }
+
+ .textinho{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    color: purple;
+ }
+
+ .alg {
+    display: inline-flex;
+    justify-content: center;  
+    align-items: center;      
+    padding-left: 32%;
+               
+ }
+ 
+ .the {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+    
+       
+   
+ }
+ 
+ .como {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    
+ }
+
+ .texto3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ }
+ 
+
+ .video{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 150px;
+ }
+
+ .texto4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 100px;
+ }
+
+ .tabela {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+ 
+}
+
+.tabela th {
+    border: 3px dashed red; /* Define as bordas das células como vermelhas */
+    color: black; /* Define o texto das células como preto */
+    padding: 10px; /* Adiciona um pouco de espaçamento dentro das células */
+}
+
+
+
+
+.lista{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-right: 30%;
+    margin: 4%;
+  overflow: hidden;
+   
+}
+
+.lista{
+    position: relative;
+    border-style: solid;
+    border-color: yellow;
+    background-color: yellow;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   z-index: 2;
+  
+}
+
+.lista p{
+    position: relative;
+    right: 650px;
+    bottom: 30px;
+    
+}
+
+.links a{
+    position: relative;
+    display: flex;
+    color: red;
+    left: 45%;
+    bottom: 170px;
+    z-index: 10;
+    justify-content: center;
+    align-items: center;
+    padding-right: 90%;
+ 
+}
+
+
+.p1 {
+    border-style: solid;
+    border-color: beige;
+    background-color: beige;
+    width: 100%;
+    display: flex;                    
+    justify-content: space-between;    
+    align-items: center;              
+    height: 100px;                    
+    position: relative;
+    z-index: 2;
+  }
+  
+  .p1 img {
+    position: relative;
+  }
+  
+  .p1 p {
+    position: absolute;
+    text-align: center;               
+    width: 100%;        
+    font-size: 18px;                  
+    margin: 0;
+  }
+
+
+  
