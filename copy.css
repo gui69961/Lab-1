@@ -172,9 +172,9 @@ body {
 }
 
 .tabela th {
-    border: 3px dashed red; /* Define as bordas das células como vermelhas */
-    color: black; /* Define o texto das células como preto */
-    padding: 10px; /* Adiciona um pouco de espaçamento dentro das células */
+    border: 3px dashed red; 
+    color: black; 
+    padding: 10px; 
 }
 
 
